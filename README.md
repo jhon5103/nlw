@@ -16,7 +16,7 @@ Projeto construído do evente Next Level Week da Rocketseat.
 
 ## O que aprendi
 
-Aprendi técnicas produtivas 
+Aprendi a como usar o HTML de uma forma inteligente e produtiva.
 
 ## Contato
 
